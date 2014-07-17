@@ -42,6 +42,7 @@ namespace Testerino
             pos = new Vector2(100, 100);
             dir = new Vector2(150, 150);
             base.Initialize();
+            //testerino comentino
         }
 
         /// <summary>
