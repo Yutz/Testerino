@@ -53,7 +53,7 @@ namespace Testerino
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            font = Content.Load<SpriteFont>("Font");
+            font = Content.Load<SpriteFont>("Fonterino");
             // TODO: use this.Content to load your game content here
         }
 
